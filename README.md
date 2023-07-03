@@ -3,6 +3,7 @@
 <h3 align="center">Web Developer</h3>
 <div align="center">
 <!-- <img alt="Static Badge" src="https://img.shields.io/badge/Developer-red?style=flat-square&label=Web&labelColor=yellow"><br> -->
+<img alt="Static Badge" src="https://custom-icon-badges.demolab.com/badge/Techscription-red.svg?logo=techscription&logoColor=white&style=flat-square&label=Team&labelColor=%235D5D5D">
 <img alt="Static Badge" src="https://img.shields.io/badge/Liberation_is_a_Choice-blue?style=flat-square">
 </div>
 <div align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70C0C&center=true&vCenter=true&width=435&lines=Be+Prepared+Rather+Than+Dreaming" alt="Typing SVG" /></a></div>
@@ -51,5 +52,10 @@ History 📖 | Bachelor of Arts | St. Joseph's arts and science
 <img alt="Static Badge" src="https://img.shields.io/badge/Express-red?style=flat-square&logo=Express&labelColor=%23555555">
 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-red?style=flat-square&logo=MongoDB&labelColor=%23555555">
 </div>
-
-
+<h4>Projects</h4>
+<a href="https://karanveiyon.github.io/eluthathigaram/">
+<img alt="Static Badge" src="https://custom-icon-badges.demolab.com/badge/Eluthathigaram-seagreen.svg?logo=eluthathigaram&logoColor=white&style=flat-square&&labelColor=%235D5D5D"></a>
+<a href="https://karanveiyon.github.io/kanakkadhigaram/">
+<img alt="Static Badge" src="https://custom-icon-badges.demolab.com/badge/Kanakkadhigaram-seagreen.svg?logo=kanakkadhigaram&logoColor=white&style=flat-square&&labelColor=%235D5D5D"></a>
+<a href="https://karanveiyon.github.io/DMS-to-Decimal/">
+<img alt="Static Badge" src="https://custom-icon-badges.demolab.com/badge/DMS--to--Decimal-seagreen.svg?logo=ulagalandhan_kol&logoColor=white&style=flat-square&&labelColor=%235D5D5D"></a>
