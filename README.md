@@ -20,9 +20,9 @@
 
 <h4 align="left"> About Karan 👩‍💻 </h4>
 
-> I am Web Developer 👩‍💻 from the stream of arts (History and Archaeology),
+> I am Web Developer 👩‍💻 from the stream of Arts (History and Archaeology),
 > with specializations in Web development (HTML, CSS, JS), Bootstrap, Jquery, PHP, MySQL and Python.
-> Having hands on experience in PHP frameworks Codeigniter 3 and Wordpress, Javascript framework React and MERN Tech stack. 
+> Having hands on experience in PHP frameworks Codeigniter 3 and Wordpress, Laravel. 
   
 <h4 align="left"> Acadamic 🥇 </h4>
 
